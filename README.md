@@ -1,16 +1,20 @@
-### 👋 Hi, I’m @JayFishr
+### 👋 Hi, I’m Jay!
 
 ## I am a full stack developer & Coding Dojo alumni :muscle:
 
-#### Entering the tech job industry like
+#### 👀 Entering the tech job industry like 👀 
 
 <img src="https://user-images.githubusercontent.com/92963497/161858492-65fb5a2f-2146-4efc-927d-79d8e74b9fda.gif">
 <img src="https://user-images.githubusercontent.com/92963497/161859353-37a5d470-50f5-4603-9d5e-bf57e8e8e587.gif">
 
           
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-#### :computer: Languages I know :
+## ❓ About Me:
+- 👶 👶 👶 👶 👶 
+- 🎹 🎵 🎹 🎵 
+- 🎮 
+- *I didn't have a career before Coding Dojo, I had a series of line cook positions I worked to pay the bills. However, after finally being able to learn something i've always been interested in, I am looking forward to starting a long and beautiful career.*   
+
+## :computer: Languages I know :
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> |
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |
@@ -26,9 +30,10 @@
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> |
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> |
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     
 
-#### 📫 Reach me :
+## 📫 Reach me :
 :inbox_tray:  [Linkedin][linkedin]
 
 
