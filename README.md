@@ -11,7 +11,7 @@
 ## ❓ About Me:
 - 👶 👶 👶 👶 👶 
 - 🎤 🎹 🎵 🎤 🎹 🎵 
-- 🎮 
+- 🎮 🎮 🎮 🎮 
 - *I didn't have a career before Coding Dojo, I had a series of line cook positions I worked to pay the bills. However, after finally being able to learn something i've always been interested in, I am looking forward to starting a long and beautiful career.*   
 
 ## :computer: Languages I know :
